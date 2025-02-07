@@ -17,7 +17,7 @@
 3. **Token** của **Silent Protocol**
 
 ### Cách lấy API_TOKEN Bot Telegram
-- **Xem tại đây :**
+- **Xem tại đây : https://t.me/ToolboxforAirdrop/10**
 ### Cách lấy Token Silent Protocol
 1. Trên trang **Slient Protocol** nhấn **Ctrl + Shift + I** hoặc **F12** nếu dùng **Windows** và **Crtl + Shift + J** nếu dùng **macOS**
 2. Truy cập vào thẻ **Console**
